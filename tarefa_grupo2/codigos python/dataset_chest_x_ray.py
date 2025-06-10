@@ -1,3 +1,8 @@
+#codigo utilizado para baixar o dataset de raios-x do peito relacionado ao COVID-19
+#direto do KaggleHub
+
+
+
 import kagglehub
 import pandas as pd
 import os
