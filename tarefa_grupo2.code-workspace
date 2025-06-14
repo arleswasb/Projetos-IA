@@ -1,10 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "tarefa_grupo2"
+			"path": "Projetos-IA"
+		},
+		{
+			"path": "../projeto-de-ciencia-de-dados"
 		}
 	],
-	"settings": {
-		"git.ignoreLimitWarning": true
-	}
+	"settings": {}
 }
